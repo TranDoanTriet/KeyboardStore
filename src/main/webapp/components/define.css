@@ -1,0 +1,64 @@
+.border-bottom-flur{
+	border-bottom: 1px solid #b6b6b6;
+}
+img{
+	width: 100%;
+	height: 100%;
+}
+.color-red{
+	color: red;
+}
+
+.color-green{
+	color: green;
+}
+.container-custom{
+	max-width: 1200px;
+    margin: auto;
+}
+
+.hCustom-vh{
+	height: 20vh;
+}
+
+.h25-vh{
+	height: 25vh
+}
+
+.h50-vh{
+	height: 50vh;
+}
+
+.h100-vh{
+	height: 100vh;
+}
+
+.display-flex{
+	display: flex;
+}
+
+.justify-center{
+	justify-content: center;
+}
+
+.align-center{
+	align-items: center;
+}
+
+.position-absolute{
+	position: absolute;
+}
+
+.position-relative{
+	position: relative;
+}
+
+.width-100{
+	width: 100%;
+}
+
+.height-100{
+	height: 100%;
+}
+
+

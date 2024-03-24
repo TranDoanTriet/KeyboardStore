@@ -1,0 +1,41 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+#nav-general-image{
+	height: 80px;
+	background: url("../images/key5.jpg") bottom center no-repeat;
+	background-size: 100% 100%; /* Cover the entire container */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat;/* Prevent background image from repeating */
+	
+}
+
+#nav-general-login-group{
+	display: flex;
+	justify-content: flex-end;
+}
+
+.navbar .nav-item:hover .nav-link{
+	color: green;
+}
+
+.home-image-under .home-image-under-hello{
+	font-size: 65px;
+	z-index: 1000;
+	color: white;
+}
+
+.home-image-under {
+	background: url("../images/key4.jpg") bottom center no-repeat;
+	background-size: 100% 100%; /* Cover the entire container */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat;/* Prevent background image from repeating */
+}
+
+.flur{
+	z-index: 100;
+	background-color: #333;
+	opacity: 0.68;
+}
